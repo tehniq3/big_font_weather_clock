@@ -13,6 +13,7 @@ v.3 - removed both DHT22 sensors and added one DS18B20 sensor
 v.3a - added adjustment also for seconds, show temperature without delay 
 v.3b - changed DS18B20 request and set the resolution 
 v.4 - scwitch big fonts for clock with temperature 
+v.4a - small updates to not pt date on undesired position after 0:00:00 clock
 */
 
 // Use: Pressing and holding the button will enter the clock set mode (on release of the button). Clock is set using the rotary encoder. 
@@ -379,11 +380,13 @@ void loop () {
               yr = now.year();              // read year
               lcd.setCursor(0, 2);          // display date full
               lcd.print(DOW[dy]);
+             /*
               lcd.setCursor(4, 2);
               lcd.print(dt/10);
               lcd.print(dt%10);
               lcd.setCursor(7, 2);
               lcd.print(MTH[mt-1]);  // niq_ corrected
+             */
             }
           } 
   }
@@ -394,7 +397,7 @@ void loop () {
      } 
     // do other things every second
   }
-  
+delay(100);  
 }  // end main loop
 
 
@@ -922,3 +925,4 @@ void readds()
        }
      tpcitire = millis(); 
   }
+
