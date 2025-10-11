@@ -374,19 +374,7 @@ void loop () {
             }
             if (h == 0) 
             {                   // day change
-              dt = now.day();               // read day
-              dy = now.dayOfTheWeek();
-              mt = now.month();             // read month
-              yr = now.year();              // read year
-              lcd.setCursor(0, 2);          // display date full
-              lcd.print(DOW[dy]);
-             /*
-              lcd.setCursor(4, 2);
-              lcd.print(dt/10);
-              lcd.print(dt%10);
-              lcd.setCursor(7, 2);
-              lcd.print(MTH[mt-1]);  // niq_ corrected
-             */
+             promo();
             }
           } 
   }
@@ -925,4 +913,5 @@ void readds()
        }
      tpcitire = millis(); 
   }
+
 
