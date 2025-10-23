@@ -16,7 +16,7 @@ better adjustment mode based on http://andydoz.blogspot.ro/2014_08_01_archive.ht
 - v.3a - added adjustment also for seconds, show temperature without delay 
 - v.3b - changed DS18B20 request and set the resolution 
 - v.4 - scwitch big fonts for clock with temperature 
-- v.4a - small updates to not pt date on undesired position after 0:00:00 clock
+- v.4a - small updates to not put date on undesired position after 0:00:00 clock
 
 
 ![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaCjHGQp6TIyCe67EoBY1ol5XwbnARtiiksTL2pP0f6IIkK7erDOtVf6z-Hn8OlYAExpmdv7PT-7WYgXUgrs8oXQ8R_0tjQyU5ZrshjSxyJHoUk_v2jx4AYp_eoU9caiE238SIVJgTKczhqHuOO0hmsMAIndLo1ecykir8Kxew8MDSmdge8U8yCIpymgV/s320/ceas_01.jpg)
