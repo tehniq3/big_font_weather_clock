@@ -12,6 +12,11 @@ better adjustment mode based on http://andydoz.blogspot.ro/2014_08_01_archive.ht
 - v.2 - added Doz (A.G.Doswell) mode to change the time with encoder: http://andydoz.blogspot.ro/2014_08_01_archive.html
 - v.2.a - replaced one DHT22 sensor with combi AHT20+BMP280: https://docs.cirkitdesigner.com/component/3d8e6da8-841a-47a6-a1aa-0aa902c905e1/aht20bmp280
 - v.2.b - replaced both DHT22 sensors with two SHT31/AHT31: https://qqtrading.com.my/GY-SHT31-D
+- v.3 - removed both DHT22 sensors and added one DS18B20 sensor 
+- v.3a - added adjustment also for seconds, show temperature without delay 
+- v.3b - changed DS18B20 request and set the resolution 
+- v.4 - scwitch big fonts for clock with temperature 
+- v.4a - small updates to not pt date on undesired position after 0:00:00 clock
 
 
 ![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaCjHGQp6TIyCe67EoBY1ol5XwbnARtiiksTL2pP0f6IIkK7erDOtVf6z-Hn8OlYAExpmdv7PT-7WYgXUgrs8oXQ8R_0tjQyU5ZrshjSxyJHoUk_v2jx4AYp_eoU9caiE238SIVJgTKczhqHuOO0hmsMAIndLo1ecykir8Kxew8MDSmdge8U8yCIpymgV/s320/ceas_01.jpg)
