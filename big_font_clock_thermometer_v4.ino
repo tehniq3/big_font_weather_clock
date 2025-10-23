@@ -13,7 +13,7 @@ v.3 - removed both DHT22 sensors and added one DS18B20 sensor
 v.3a - added adjustment also for seconds, show temperature without delay 
 v.3b - changed DS18B20 request and set the resolution 
 v.4 - scwitch big fonts for clock with temperature 
-v.4a - small updates to not pt date on undesired position after 0:00:00 clock
+v.4a - small updates to not put date on undesired position after 0:00:00 clock
 */
 
 // Use: Pressing and holding the button will enter the clock set mode (on release of the button). Clock is set using the rotary encoder. 
@@ -913,5 +913,6 @@ void readds()
        }
      tpcitire = millis(); 
   }
+
 
 
