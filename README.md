@@ -7,6 +7,13 @@ better adjustment mode based on http://andydoz.blogspot.ro/2014_08_01_archive.ht
 
 2nd article: https://nicuflorica.blogspot.com/2025/10/ceas-rtc-cu-caractere-mari-si.html
 
+- v.1 - Nicu FLORICA (niq_ro) changed t i2c interface for LCD2004
+- v.1.a - changed sensors to DHT22 
+- v.2 - added Doz (A.G.Doswell) mode to change the time with encoder: http://andydoz.blogspot.ro/2014_08_01_archive.html
+- v.2.a - replaced one DHT22 sensor with combi AHT20+BMP280: https://docs.cirkitdesigner.com/component/3d8e6da8-841a-47a6-a1aa-0aa902c905e1/aht20bmp280
+- v.2.b - replaced both DHT22 sensors with two SHT31/AHT31: https://qqtrading.com.my/GY-SHT31-D
+
+
 ![real](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSaCjHGQp6TIyCe67EoBY1ol5XwbnARtiiksTL2pP0f6IIkK7erDOtVf6z-Hn8OlYAExpmdv7PT-7WYgXUgrs8oXQ8R_0tjQyU5ZrshjSxyJHoUk_v2jx4AYp_eoU9caiE238SIVJgTKczhqHuOO0hmsMAIndLo1ecykir8Kxew8MDSmdge8U8yCIpymgV/s320/ceas_01.jpg)
 ![real2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjAvWLpc9Lj-qhGVlLusupFX5937_S4Y-nUcy3rDVFQitqt6y_tkHZCGRWTKssT62EXQK8tDA0AuU_YgKkB3tuw9xzxGXSn9-6xzNqJKatSihzl93s6S8kdmgJ7n0R1RK-c_8FPti1TmT5d59bkxStgUWrNbJa9NvAjYGwuVtIpYkEePtzBmf_ZN1q0YShL/w320-h149/ceas_02.jpg)
 
