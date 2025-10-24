@@ -7,6 +7,10 @@ better adjustment mode based on http://andydoz.blogspot.ro/2014_08_01_archive.ht
 
 2nd article: https://nicuflorica.blogspot.com/2025/10/ceas-rtc-cu-caractere-mari-si.html
 
+3th article: https://nicuflorica.blogspot.com/2025/10/ceas-rtc-cu-caractere-mari-si-date.html
+
+4th article: https://nicuflorica.blogspot.com/2025/10/ceas-rtc-cu-caractere-mari-si-date_25.html
+
 - v.1 - Nicu FLORICA (niq_ro) changed t i2c interface for LCD2004
 - v.1.a - changed sensors to DHT22 
 - v.2 - added Doz (A.G.Doswell) mode to change the time with encoder: http://andydoz.blogspot.ro/2014_08_01_archive.html
